@@ -52,6 +52,6 @@ This project consists of three microservices:
 Created by Michal Frost
 
 ### Screenshots
-![Bildschirmfoto 2024-09-05 um 15.25.35.png](Screens/Bildschirmfoto 2024-09-05 um 15.25.35.png)
-![Bildschirmfoto 2024-09-05 um 15.25.41.png](Screens/Bildschirmfoto 2024-09-05 um 15.25.41.png)
+![Bildschirmfoto 2024-09-05 um 15.25.35.png](Screens/Bildschirmfoto1.png)
+![Bildschirmfoto 2024-09-05 um 15.25.41.png](Screens/Bildschirmfoto2.png)
 
